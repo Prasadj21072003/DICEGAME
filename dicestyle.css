@@ -1,0 +1,64 @@
+body{
+    background-color: #e5e5e5;
+    position: relative;
+}
+h1{
+    font-family: 'Special Elite', cursive;
+   color: #c57b57;
+    position:relative;
+    top: 3em;
+text-align: center;
+    font-size: 2rem;
+  
+    
+}
+#img1{
+    height: 15em;
+    width: 15em;
+    position:absolute; 
+    top: 25em;
+    left: 33%;
+}
+#img2{
+    height: 15em;
+    width: 15em;
+    position: absolute;
+    top: 25em;
+    left: 50%;
+}
+h2{
+    font-family: 'Special Elite', cursive;
+   
+    position:relative;
+    text-align: center;
+    margin: 0;
+    top: 2.5em;
+    font-size: 2.5rem;
+    color:#f1ab86;
+}
+h3{
+    letter-spacing: 10px;
+    color: #df2935;
+    font-family: 'Alfa Slab One', cursive;
+    position:relative;
+    text-align: center;
+    top: 1em;
+    font-size: 6rem;
+    margin: 0;
+}
+#player1{
+    font-family: 'Roboto', sans-serif;
+    color: #3772ff;
+     position: absolute;
+     top: 7.5em;
+ left: 35%;
+     font-size: 2.5rem;  
+}
+#player2{
+    font-family: 'Roboto', sans-serif;
+    color: #3772ff;
+     position: absolute;
+     top: 7.5em;
+ left: 52%;
+     font-size: 2.5rem;  
+}
